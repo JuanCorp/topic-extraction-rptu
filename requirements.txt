@@ -1,0 +1,6 @@
+gensim==4.3.2
+nltk==3.5
+numpy==1.21.6
+pandas==1.5.2
+sentence_transformers==2.2.2
+sklearn==1.2.0
