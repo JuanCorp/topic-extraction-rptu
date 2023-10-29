@@ -1,4 +1,4 @@
-data/*
+data/nytimes front page.csv
 testing.ipynb
 results.json
 __pycache__/*
